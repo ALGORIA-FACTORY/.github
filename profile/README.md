@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./lockup-dark.png">
-    <img src="./lockup-light.png" width="520" alt="ALGORIA Factory">
+    <source media="(prefers-color-scheme: dark)" srcset="./algoria-factory-logo-dark.png">
+    <img src="./algoria-factory-logo-light.png" width="520" alt="ALGORIA Factory">
   </picture>
 </p>
 
